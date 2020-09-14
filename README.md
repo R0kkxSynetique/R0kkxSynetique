@@ -9,4 +9,4 @@ A first grade projects combining C programming and project management
 
 ## stats
 [![R0kkxSynetique's github stats](https://github-readme-stats.vercel.app/api?username=R0kkxSynetique&count_private=true&show_icons=true)](https://github.com/R0kkxSynetique)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R0kkxSynetique&layout=compact)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R0kkxSynetique&layout=compact)
