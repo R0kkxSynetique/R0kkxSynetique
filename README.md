@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a second year IT specialist apprentice at <a href = "www.cpnv.ch">CPNV</a>. I don't have many projects done yet as I still need to learn the basics, but it'll come with time. I'm currently interested in web development which will be a majority of the courses I'll be undertaking during this year.
+I'm a second year IT specialist apprentice at <a href = "https://www.cpnv.ch">CPNV</a>. I don't have many projects done yet as I still need to learn the basics, but it'll come with time. I'm currently interested in web development which will be a majority of the courses I'll be undertaking during this year.
 <!--
 **R0kkxSynetique/R0kkxSynetique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
