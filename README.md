@@ -5,6 +5,7 @@ I'm a third year IT specialist apprentice at [CPNV](https://www.cpnv.ch/). I don
 
 [![Naval-strike Card](https://github-readme-stats.vercel.app/api/pin/?username=R0kkxSynetique&repo=Naval-strike)](https://github.com/R0kkxSynetique/Naval-strike)
 [![Web-Observation Card](https://github-readme-stats.vercel.app/api/pin/?username=Mondotosz&repo=Web-Observation)](https://github.com/Mondotosz/Web-Observation)
+[![Droxid Card](https://github-readme-stats.vercel.app/api/pin/?username=R0kkxSynetique&repo=Droxid)](https://github.com/R0kkxSynetique/Droxid)
 
 ## stats
 [![R0kkxSynetique's github stats](https://github-readme-stats.vercel.app/api?username=R0kkxSynetique&count_private=true&show_icons=true)](https://github.com/R0kkxSynetique)
