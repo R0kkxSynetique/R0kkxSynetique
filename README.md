@@ -3,10 +3,13 @@ I'm a third year IT specialist apprentice at [CPNV](https://www.cpnv.ch/). I don
 
 ## Finished projects so far
 
-[![Naval-strike Card](https://github-readme-stats.vercel.app/api/pin/?username=R0kkxSynetique&repo=Naval-strike)](https://github.com/R0kkxSynetique/Naval-strike)
-[![Web-Observation Card](https://github-readme-stats.vercel.app/api/pin/?username=Mondotosz&repo=Web-Observation)](https://github.com/Mondotosz/Web-Observation)
-[![Droxid Card](https://github-readme-stats.vercel.app/api/pin/?username=R0kkxSynetique&repo=Droxid)](https://github.com/R0kkxSynetique/Droxid)
+[![Droxid Card](https://github-readme-stats.vercel.app/api/pin/?username=R0kkxSynetique&repo=Droxid&show_icons=true&theme=dracula)](https://github.com/R0kkxSynetique/Droxid).
+[![Web-Observation Card](https://github-readme-stats.vercel.app/api/pin/?username=Mondotosz&repo=Web-Observation&show_icons=true&theme=dracula)](https://github.com/Mondotosz/Web-Observation)
+[![Naval-strike Card](https://github-readme-stats.vercel.app/api/pin/?username=R0kkxSynetique&repo=Naval-strike&show_icons=true&theme=dracula)](https://github.com/R0kkxSynetique/Naval-strike)
+
+
 
 ## stats
-[![R0kkxSynetique's github stats](https://github-readme-stats.vercel.app/api?username=R0kkxSynetique&count_private=true&show_icons=true)](https://github.com/R0kkxSynetique)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R0kkxSynetique&layout=compact)
+[![R0kkxSynetique's github stats](https://github-readme-stats.vercel.app/api?username=R0kkxSynetique&count_private=true&show_icons=true&theme=dracula)](https://github.com/R0kkxSynetique)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R0kkxSynetique&layout=compact&hide=TSQL&theme=dracula&count_private=true&show_icons=true)
