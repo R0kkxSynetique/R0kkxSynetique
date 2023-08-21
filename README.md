@@ -3,7 +3,7 @@ I'm a first year Computer technician apprentice at [CPNV](https://www.cpnv.ch/).
 
 ## Finished projects so far
 
-[![Droxid Card](https://github-readme-stats.vercel.app/api/pin/?username=R0kkxSynetique&repo=Droxid&show_icons=true&theme=dracula)](https://github.com/R0kkxSynetique/Droxid).
+[![Droxid Card](https://github-readme-stats.vercel.app/api/pin/?username=R0kkxSynetique&repo=Droxid&show_icons=true&theme=dracula)](https://github.com/R0kkxSynetique/Droxid)
 [![Web-Observation Card](https://github-readme-stats.vercel.app/api/pin/?username=Mondotosz&repo=Web-Observation&show_icons=true&theme=dracula)](https://github.com/Mondotosz/Web-Observation)
 [![Naval-strike Card](https://github-readme-stats.vercel.app/api/pin/?username=R0kkxSynetique&repo=Naval-strike&show_icons=true&theme=dracula)](https://github.com/R0kkxSynetique/Naval-strike)
 [![TPI_Card](https://github-readme-stats.vercel.app/api/pin/?username=R0kkxSynetique&repo=TPI&show_icons=true&theme=dracula)](https://github.com/R0kkxSynetique/TPI)
