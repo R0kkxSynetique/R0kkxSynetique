@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a first year Computer technician apprentice at [CPNV](https://www.cpnv.ch/). I don't have many projects done yet as I still learn a lot, but it'll come with time. I'm currently interested in OOP development which will be a majority of the courses I'll be undertaking during these years.
+I'm a second year Computer technician apprentice at [CPNV](https://www.cpnv.ch/). I don't have many projects done yet as I still learn a lot, but it'll come with time. I'm currently interested in OOP development which will be a majority of the courses I'll be undertaking during these years.
 
 ## Finished projects so far
 
