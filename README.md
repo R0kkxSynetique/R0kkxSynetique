@@ -4,7 +4,6 @@ I'm a second-year Computer Technician apprentice at [CPNV](https://www.cpnv.ch),
 ## Finished projects so far
 [![PHP Handmade Framework Card](https://github-readme-stats.vercel.app/api/pin/?username=CPNV-ES&repo=MAW11_Mugiwaras_Framework&show_icons=true&theme=dracula)](https://github.com/CPNV-ES/MAW11_Mugiwaras_Framework)
 [![The Vinyl Card](https://github-readme-stats.vercel.app/api/pin/?username=CPNV-ES&repo=AWA1_The_Vinyl&show_icons=true&theme=dracula)](https://github.com/CPNV-ES/AWA1_The_Vinyl)
-[![Droxid Card](https://github-readme-stats.vercel.app/api/pin/?username=R0kkxSynetique&repo=Droxid&show_icons=true&theme=dracula)](https://github.com/R0kkxSynetique/Droxid)
 
 ## stats
 [![R0kkxSynetique's github stats](https://github-readme-stats.vercel.app/api?username=R0kkxSynetique&count_private=true&show_icons=true&theme=dracula)](https://github.com/R0kkxSynetique)
